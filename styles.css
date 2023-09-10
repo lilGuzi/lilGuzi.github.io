@@ -1,0 +1,36 @@
+body {
+    background-color: darkblue;
+}
+h1, ul {
+    text-align: center;
+    color: white;
+    list-style-position: inside;
+}
+.picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+table {
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+    border: 3px white;
+}
+button {
+    background-color: gold;
+    margin-left: 43%;
+}
+ul{
+    border: 5px white
+}
+
+
+
+
+
+
+
+
+
